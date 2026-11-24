@@ -1,0 +1,6 @@
+{
+  "name": "CampusDesk — Student Ticket Management System",
+  "description": "Role-based campus helpdesk and student ticket management platform with automated department routing, SLA tracking, internal staff notes, audit logs, and operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
